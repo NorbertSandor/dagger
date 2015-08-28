@@ -222,7 +222,7 @@
       <modules>
         <module>core</module>
         <module>compiler</module>
-        <module>examples</module>
+        <!-- <module>examples</module> -->
         <module>producers</module>
       </modules>
     </profile>
